@@ -1,0 +1,4 @@
+
+/* Minimal styles for mywebpage */
+body { font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial; padding: 2rem; background: #f8fafc; color: #111827; }
+main { max-width: 42rem; margin: 2rem auto; background: #fff; padding: 1.5rem; border-radius: 8px; box-shadow: 0 1px 3px rgba(0,0,0,0.07); }
